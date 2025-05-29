@@ -18,6 +18,7 @@
 <a href="https://firecrawl.dev">
   <img src="https://img.shields.io/badge/Visit-firecrawl.dev-orange" alt="Visit firecrawl.dev">
 </a>
+<a href="https://deepwiki.com/dakouan18/firecrawl"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
 </div>
 <div>
   <p align="center">
@@ -665,6 +666,5 @@ For more details on the licensing of specific components, please refer to the LI
         ↑ Back to Top ↑
     </a>
 </p>
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/dakouan18/firecrawl)
 
 
